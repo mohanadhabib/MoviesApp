@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AndroidJavaPractice</string>
+    <string name="go_to_browser">Go To Browser</string>
+    <string name="welcome_to_lucky_app">Welcome To Lucky App!!</string>
+    <string name="enter_your_name">Enter Your Name :</string>
+    <string name="go_to_luck_page">Go To Luck Page</string>
+    <string name="welcome">Welcome</string>
+    <string name="your_lucky_number">Your Lucky Number :</string>
+    <string name="share_your_result">Share Your Result</string>
+    <string name="go_to_test_button">Go To Test Button</string>
+    <string name="java">Java</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="my_switch">My Switch</string>
+    <string name="cat">Cat</string>
+    <string name="chicken">Chicken</string>
+    <string name="dog">Dog</string>
+    <string name="animals_sound_app">Animals Sound App</string>
+    <string name="stop_music">Stop Music</string>
+    <string name="start_music">Start Music</string>
+    <string name="you_entered_this_button">You Entered This Button </string>
+    <string name="_0">0</string>
+    <string name="times">Times</string>
+    <string name="increment">Increment</string>
+</resources>
